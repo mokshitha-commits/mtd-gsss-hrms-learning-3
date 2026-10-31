@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Employ Management Service
+=======
+Employ Management Service
+CRUD operations on employee
+>>>>>>> emp-service
